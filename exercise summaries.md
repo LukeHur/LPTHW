@@ -32,3 +32,4 @@ I leared how to use "print". I also can use this for calculator. I will use this
 ##LPTHW : 5
 ### Summary
 I learned about string. String was very usefull. I learned what string did and when it was useful.
+
