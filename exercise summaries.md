@@ -22,3 +22,13 @@ I learned how to ignore commands by using commands. I kind of have feeling how t
 ##LPTHW : 3
 ### Summary
 I learned how to do math with Python. Now I can use Python as calculator. It's very insteresting.
+
+#2017/02/23
+##LPTHW : 4 
+### Summary
+I leared how to use "print". I also can use this for calculator. I will use this sometime.
+
+#2017/02/27
+##LPTHW : 5
+### Summary
+I learned about string. String was very usefull. I learned what string did and when it was useful.
