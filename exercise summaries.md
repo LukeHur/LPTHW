@@ -33,3 +33,23 @@ I leared how to use "print". I also can use this for calculator. I will use this
 ### Summary
 I learned about string. String was very usefull. I learned what string did and when it was useful.
 
+#2017/03/02
+##LPTHW : 6
+### Summary
+I learned using double quotes. I learned what String is. I made a good strings.
+
+#2017/03/02
+##LPTHW : 7
+### Summary
+I made a code. I made it to run. I did not make a mistake.
+
+#2017/03/02
+##LPTHW : 8
+### Summary
+I made a complicated string. I really don't have anything to write about. I like David and Mr. Olinda.
+
+#2017/03/02
+##LPTHW : 9
+### Summary
+I am starting to get something. I actually enjoy doing LPTHW. I feel good when I write all the codes and it actually runs even though I don't understand sometimes.
+
